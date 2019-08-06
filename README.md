@@ -6,4 +6,4 @@ The aim is to predict a particular car's sale price given its features which inc
 
 We will perform some data cleaning and then train models using a single feature for prediction and compare the results with models using multiple features for prediction. We will also examine how the performance of the algorithm depends on the value for k, the number of nearest neighbours.
 
-The raw data can be found in imports-85.data
+The raw data can be found in "imports-85.data".
